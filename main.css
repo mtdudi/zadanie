@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+.tlo
+{
+    background-color: blueviolet;
+}
+
+.tytul
+{
+    color:blue;
+    text-align:center;
+    background-color: rgb(14, 197, 42);
+}
+.tekst
+{
+    text-align: center;
+    padding: 20px;
+}
+.tekst1
+{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
